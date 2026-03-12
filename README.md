@@ -1,2 +1,2 @@
-# vinaytiwaridemo
-this is my first repository
+# vinaytiwari-demo
+this is my first git repository
